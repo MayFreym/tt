@@ -1,0 +1,3 @@
+<?php
+$MESS['USER_ENTITY_ID_FIELD'] = "";
+$MESS['USER_ENTITY_NAME_FIELD'] = "";
